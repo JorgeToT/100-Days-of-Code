@@ -10,3 +10,4 @@
 * [Day 8: Arguments and Parameters](./Day%208)
 * [Day 9: Dictionaries, Nesting and the Secret Auction](./Day%209)
 * [Day 10: Functions with outputs](./Day%2010)
+* [Day 11: The Blackjack Capstone Project](./Day%2011/)
